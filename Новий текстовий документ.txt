@@ -1,0 +1,41 @@
+npx serve
+
+Then open:
+
+http://localhost:3000
+
+
+index.html
+style.css
+assets {
+    zoltar
+    BTC
+}
+js {
+    app.js
+    fortuneEngine.js
+    typing.js
+    stars.js
+}
+data{
+    procedural-en.json
+    procedural-uk.json
+    fortunes-en.json
+    fortunes-uk.json
+}
+
+
+
+
+
+
+
+coin drop animation 🪙
+
+crystal ball glow effect
+
+CRT terminal screen effect
+
+thousands of generated fortunes (procedural oracle)
+
+“angry Zoltar” if user clicks too much

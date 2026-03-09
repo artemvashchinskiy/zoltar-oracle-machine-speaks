@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<title>Zoltar Oracle</title>
+<link rel="icon" type="image/png" sizes="32x32" href="assets/zoltar.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/zoltar.png">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div id="starfield"></div>
+
+<div class="machine" id="machine">
+
+<div class="header">ZOLTAR</div>
+<div class="lang-switch">
+    <button id="langEN">EN</button>
+    <button id="langUK">UA</button>
+</div>
+
+<div class="oracle-area">
+  
+    <img src="assets/btc.jfif" id="coinAnim" class="coin-anim" alt="Coin" style="display:none;">
+    
+    <img src="assets/zoltar.png" class="zoltar-img" alt="Zoltar">
+  
+    <div class="screen" id="screen">
+      Insert coin and consult the oracle
+    </div>
+  
+  </div>
+
+<div class="controls">
+
+<div class="coin-slot">
+
+<button id="coinBtn" class="coin-button">
+INSERT COIN ₿
+</button>
+
+<div class="coin-count">
+Coins: <span id="coins">0</span>
+</div>
+
+</div>
+
+<button class="zoltar-button" id="askBtn">
+ASK ZOLTAR
+</button>
+
+</div>
+
+</div>
+ 
+<script src="js/stars.js"></script>
+<script type="module" src="js/app.js"></script>
+
+</body>
+</html>

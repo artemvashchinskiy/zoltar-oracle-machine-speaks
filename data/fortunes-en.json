@@ -1,0 +1,92 @@
+{
+  "good": [
+    "The road ahead is bright.",
+    "Patience will bring reward.",
+    "A small step will change your fate.",
+    "Today will be a great day.",
+    "An unexpected surprise will delight you.",
+    "You will find joy in a small moment.",
+    "A positive change is coming soon.",
+    "Good news will arrive unexpectedly.",
+    "Your kindness will be returned.",
+    "Success is within your reach today.",
+
+    "Fortune smiles upon your path.",
+    "A pleasant surprise is waiting for you.",
+    "A small effort today will bring success.",
+    "Your patience will soon be rewarded.",
+    "Today the winds favor you.",
+    "Something good is approaching quietly.",
+    "Opportunity is closer than you think.",
+    "A kind gesture will return to you."
+  ],
+
+  "bad": [
+    "Beware of easy victories.",
+    "Today may be challenging.",
+    "Your patience will be tested.",
+    "A hidden obstacle may appear.",
+    "Things may not go as planned.",
+    "A decision today requires caution.",
+    "Do not trust everything you hear.",
+    "Avoid rushing into action.",
+    "Frustrations may come, stay calm.",
+    "Some surprises may not be pleasant.",
+
+    "Today may test your patience.",
+    "Beware of easy promises today.",
+    "Someone may misunderstand your words.",
+    "The road today may be uneven.",
+    "Not every door today leads forward.",
+    "A small mistake may hide in plain sight.",
+    "Today requires calm thinking.",
+    "The path today may twist unexpectedly."
+  ],
+
+  "lucky": [
+    "You will find something valuable today.",
+    "Luck is on your side!",
+    "A rare opportunity is approaching.",
+    "You will stumble upon unexpected fortune.",
+    "A lucky encounter is near.",
+    "Fortune smiles upon your efforts.",
+    "A small risk will bring great reward.",
+    "Your intuition leads you to success.",
+    "Today is a day for bold moves.",
+    "Fortune favors the curious.",
+
+    "Luck walks beside you today.",
+    "A lucky moment will arrive soon.",
+    "Chance favors your next decision.",
+    "Fortune whispers your name.",
+    "A small gamble may succeed.",
+    "Your luck will surprise even you."
+  ],
+
+  "jokes": [
+    "The spirits say: take a nap, seriously.",
+    "Why did the fortune cross the road? To get to your wallet!",
+    "Zoltar recommends coffee first, wisdom second.",
+    "The oracle is feeling lazy today… laugh anyway!",
+    "The spirits whisper: check your shoelaces.",
+    "You will find humor where you least expect it.",
+    "A funny twist awaits in your day.",
+    "Even Zoltar is having a bad hair day.",
+    "The spirits say: don't take life too seriously.",
+    "Laughter is coming your way.",
+
+    "You will soon find money... in your other pants.",
+    "Your future is bright but your coffee is empty.",
+    "Great destiny awaits you after lunch.",
+    "The oracle suggests pizza tonight.",
+    "You will meet someone interesting... probably yourself.",
+    "Today is perfect for pretending to work.",
+    "Fortune says: take a nap first."
+  ],
+    "prophecy": [
+    "The stars align for a life-changing event.",
+    "A powerful decision approaches.",
+    "Destiny is quietly rearranging itself.",
+    "A hidden door will soon open."
+  ]
+}

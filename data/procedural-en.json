@@ -1,0 +1,42 @@
+{
+  "subjects": [
+    "You",
+    "Your destiny",
+    "The spirits whisper",
+    "A stranger",
+    "Your future",
+    "Your path"
+  ],
+  "actions": [
+    "will reveal",
+    "will encounter",
+    "will discover",
+    "may face",
+    "will receive",
+    "is about to meet"
+  ],
+  "objects": [
+    "unexpected joy",
+    "a strange opportunity",
+    "a hidden truth",
+    "a small challenge",
+    "great fortune",
+    "a mysterious message"
+  ],
+  "modifiers": [
+    "today",
+    "very soon",
+    "when you least expect it",
+    "before the next moon",
+    "in an unusual way",
+    "after a small risk"
+  ],
+  "patterns": [
+    "[subject] [action] [object] [modifier]",
+    "[modifier], [subject] [action] [object]",
+    "Beware: [subject] [action] [object]",
+    "[subject] [action] [object]",
+    "[subject] [action] [object] very soon",
+    "The stars say: [subject] [action] [object]"
+  ]
+}
