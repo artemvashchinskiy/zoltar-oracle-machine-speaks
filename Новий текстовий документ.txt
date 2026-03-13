@@ -29,10 +29,10 @@ git remote -v
  
 git status
 git add .
-git commit -m "feat: finalize storePage filter and store grid"
+git commit -m "window added, zolter recovers per day"
 git push -u origin main
 
-
+git pull origin main --rebase
 
 
 
