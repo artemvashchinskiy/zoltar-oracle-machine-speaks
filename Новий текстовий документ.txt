@@ -25,6 +25,13 @@ data{
 }
 
 
+git remote -v
+ 
+git status
+git add .
+git commit -m "feat: finalize storePage filter and store grid"
+git push -u origin main
+
 
 
 
